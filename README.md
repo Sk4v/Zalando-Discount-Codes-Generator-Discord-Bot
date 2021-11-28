@@ -3,7 +3,7 @@ Zalando Discount Codes generator discord bot.
 
 This program generates Zalando discount codes using Selenium. This code is very simple and easy to understand.
 
-You need to download the chromedriver (https://chromedriver.chromium.org/downloads) which is compatible with your chrome version (chrome://version/).
+You need to download the chromedriver (https://chromedriver.chromium.org/downloads) which is compatible with your chrome version (chrome://version).
 
 Paste the chromedriver path on the variable PATH in the main.py file (ex: C:\Program Files (x86)\chromedriver.exe).
 
