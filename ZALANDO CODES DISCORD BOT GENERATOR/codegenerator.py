@@ -9,7 +9,7 @@ def code(PATH,link_newsletter,t):
     # t = time, the program may not work with too low times
 
     options = Options()
-    options.headless=True #set False to use Chrome in default mode
+    options.headless=False #set True to use Chrome in headless mode...maybe it doesn't work very well.
     driver = webdriver.Chrome(options=options,executable_path=PATH)
     link_email='https://generator.email/'
 
