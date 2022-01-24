@@ -1,6 +1,8 @@
 # Zalando-Discount-Codes-Generator-Discord-Bot
 Zalando Discount Codes generator discord bot.
 
+*CONTACT ME ON DISCORD Sk4v#4331 IF YOU WANT A FASTER SOLUTIONS (1 code x second)*
+
 This program generates Zalando discount codes using Selenium. This code is very simple and easy to understand.
 
 You need to download the chromedriver (https://chromedriver.chromium.org/downloads) which is compatible with your chrome version (chrome://version).
